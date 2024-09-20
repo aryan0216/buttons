@@ -1,0 +1,52 @@
+
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(113, 181, 184);
+}
+#a1
+{
+background-color:rgb(190, 87, 87);
+padding:3%;
+border-radius:20PX;
+margin-left: 20PX;
+
+}
+#a2
+{
+background-color: darkgrey;
+padding:3%;
+border-radius:20PX;
+margin-left: 20PX;
+MARGIN RIGHT:20PX;
+}
+#a3
+{
+background-color: darkseagreen;
+padding:3%;
+border-radius:20PX;
+margin-left: 20PX;
+MARGIN RIGHT:20PX;
+
+}
+#a4
+{
+background-color: darkorchid;
+padding:3%;
+border-radius:20PX;
+margin-left: 20PX;
+MARGIN RIGHT:20PX;
+
+}
+#a5
+{
+background-color: rgb(207, 179, 84);
+padding:3%;
+border-radius:20PX;
+margin-left: 20PX;
+MARGIN RIGHT:20PX;
+MARGIN-TOP:20PX;
+}
